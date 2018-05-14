@@ -8,6 +8,8 @@ package com.it.web;
  */
 public class CurdTest {
     public static void main(){
+
         System.out.println("helloword");
+
     }
 }
